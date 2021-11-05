@@ -143,16 +143,16 @@ a.social {
     background-size: 30px 30px;
     opacity: .4;
     transition: all .5s;
-  }
-  a.twitter {
+}
+a.twitter {
     background-image: url(Images/twitter.svg);
-  }
-  a.linkedin {
+}
+a.linkedin {
     background-image: url(Images/linkedin.svg);
-  }
-  a.github {
+}
+a.github {
     background-image: url(Images/github.svg);
-  }
+}
   
   
   
