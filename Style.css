@@ -113,6 +113,46 @@ ul.skills {
     padding: 5px 10px;
     margin: 2px;
 }
+
+footer {
+    width: 100%;
+    min-height: 30px;
+    padding: 20px 0 40px 20px;
+}
+footer .copyright {
+    top: -8px;
+    font-size: .75em;
+}
+  
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+footer ul li {
+    display: inline-block;
+}
+
+a.social {
+    display: inline-block;
+    text-indent: -9999px;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    opacity: .4;
+    transition: all .5s;
+  }
+  a.twitter {
+    background-image: url(Images/twitter.svg);
+  }
+  a.linkedin {
+    background-image: url(Images/linkedin.svg);
+  }
+  a.github {
+    background-image: url(Images/github.svg);
+  }
   
   
   
