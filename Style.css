@@ -153,6 +153,12 @@ a.linkedin {
 a.github {
     background-image: url(Images/github.svg);
 }
-  
+
+#imgInterests{
+    background: url('Images/hobbies.jpg') no-repeat top center ;
+    background-size: cover;
+    margin-left: -10px;
+
+}
   
   
