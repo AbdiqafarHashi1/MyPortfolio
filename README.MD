@@ -3,7 +3,7 @@
 #### By **{List of contributors}**
 Abdiqafr Hashi
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Download the file, unzip it, then double click on index.html
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/AbdiqafarHashi1/myportfolio
 * to list setup instructions
