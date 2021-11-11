@@ -1,9 +1,25 @@
-Abdiqafar Hashi
-
-Since this is Just a simple Portfolio that uses HTML & CSS,
-I dont think it needs Instructions to install it, as required in the 
-README Template profided.
-
-Here is a link for this project.
+# {Abdiqafar Hashi}
+#### {Brief description of application}, {Date of current version}
+#### By **{List of contributors}**
+Abdiqafr Hashi
+## Description
+{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+## Setup/Installation Requirements
+* Clone the repo {git clone https://github.com/AbdiqafarHashi1/myportfolio
+* to list setup instructions
+* in a simple
+* easy-to-understand
+* format
+{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 https://moringaportfolio.netlify.app/
+## Known Bugs
+{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+## Technologies Used
+Languages Used 
 
+HTML 
+CSS
+### License
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+This is under the [MIT](LICENSE) license
+Copyright (c) {2021} 

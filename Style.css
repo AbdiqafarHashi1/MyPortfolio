@@ -98,6 +98,7 @@ header .profile-image {
 
 .card:hover {
     border-color: #ff99ff;
+    
 }
   
 ul.skills {
@@ -169,3 +170,4 @@ a.github {
     width: 300px;
     height: 359px;
 }
+
