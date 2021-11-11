@@ -1,5 +1,5 @@
 # {Abdiqafar Hashi}
-#### {Brief description of application}, {Date of current version}
+#### {This is a simple Portfolio}, {Version 1.0}
 #### By **{List of contributors}**
 Abdiqafr Hashi
 ## Description
