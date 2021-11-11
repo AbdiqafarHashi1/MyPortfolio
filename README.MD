@@ -6,14 +6,11 @@ Abdiqafr Hashi
 Download the file, unzip it, then double click on index.html
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/AbdiqafarHashi1/myportfolio
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+
+Here is the project's Link 
 https://moringaportfolio.netlify.app/
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+Some Fonts may not work on some computers, other than that it should work fine.
 ## Technologies Used
 Languages Used 
 
