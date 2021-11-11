@@ -12,11 +12,9 @@ https://moringaportfolio.netlify.app/
 ## Known Bugs
 Some Fonts may not work on some computers, other than that it should work fine.
 ## Technologies Used
-Languages Used 
 
 HTML 
 CSS
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} 
