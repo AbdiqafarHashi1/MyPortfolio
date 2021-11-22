@@ -171,3 +171,25 @@ a.github {
     height: 359px;
 }
 
+img{
+    width: 420px;
+    height: 300px;
+    border-radius: 4px;
+}
+
+button{
+    
+    background-color: #0044c4; 
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+p{
+    line-height: 1.5em;
+}
